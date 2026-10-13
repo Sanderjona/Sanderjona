@@ -16,3 +16,12 @@
 ## 📊 Estadísticas
 
 ![Estadísticas](https://github-readme-stats.vercel.app/api?username=Sanderjona&show_icons=true&theme=tokyonight)
+
+## 🌐 Encuéntrame en:
+
+[![GitHub](https://img.shields.io/badge/GitHub-Sanderjona-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/Sanderjona)
+[![Gmail](https://img.shields.io/badge/Gmail-sanderarroyave-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:sanderarroyave@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sander_Ram%C3%ADrez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/sander-jonathan-ramirez-arroyave-618651311)
+[![YouTube](https://img.shields.io/badge/YouTube-Sander_Ram%C3%ADrez-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://www.youtube.com/@sanderjonathanramirezarroy7858)
+[![Instagram](https://img.shields.io/badge/Instagram-%40sander__ramirez20-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/sander_ramirez20/)
+[![Discord](https://img.shields.io/badge/Discord-sanderramirez-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://discord.com/users/950080706871193620)
