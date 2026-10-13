@@ -1,8 +1,11 @@
-# Hola, soy Sander 👋
+<h1>
+  <img src="avatar.png" width="60" align="center" alt="Avatar"/>
+  Hola, mi nombre es Sander Ramírez 👋
+</h1>
 
-### Estudiante de [Ing. Sistema] | Aprendiendo desarrollo web
+### Estudiante de Ing. Sistema | Aprendiendo desarrollo web
 
-- 🔭 Actualmente trabajo en [Claudemyproyect]
+- 🔭 Actualmente trabajo en Claudemyproyect
 - 🌱 Estoy aprendiendo Git, GitHub y Python
 - 📫 Contacto: sanderarroyave@gmail.com
 
